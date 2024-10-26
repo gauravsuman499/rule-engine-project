@@ -32,6 +32,8 @@ step3: install dependencied for frontend: Go to the root directory of the projec
     Once done this will install all tha dependencies required for the frontend
 
 **Optional Step:** You can run the command **npm run build** to build the frontend before running the npm start command.
+
+
 step4: Run the frontend: run the following command to start the frontend 
 
    **npm start**
